@@ -1,0 +1,1 @@
+SELECT ename, sal + COALESCE(comm,0) FROM emp;
