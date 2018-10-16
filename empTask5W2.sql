@@ -1,0 +1,1 @@
+SELECT empno, loc FROM emp, dept WHERE emp.deptno = dept.deptno AND loc = 'CHICAGO';
