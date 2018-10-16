@@ -1,0 +1,1 @@
+SELECT e.ename employee, m.ename manager FROM emp e JOIN emp m ON e.mgr=m.empno;
