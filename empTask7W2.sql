@@ -1,0 +1,1 @@
+SELECT ename, dname FROM emp e, dept d;
