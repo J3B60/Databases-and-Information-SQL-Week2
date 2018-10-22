@@ -1,0 +1,1 @@
+SELECT e.ename, d.dname FROM emp e, dept d WHERE e.deptno = d.deptno;
