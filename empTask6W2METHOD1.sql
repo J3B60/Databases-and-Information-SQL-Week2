@@ -1,0 +1,1 @@
+SELECT ename, dname FROM emp JOIN dept ON emp.deptno = dept.deptno;
