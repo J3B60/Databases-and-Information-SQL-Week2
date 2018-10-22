@@ -1,0 +1,1 @@
+SELECT e.ename Manager, f.ename Employee FROM emp e, emp f WHERE e.empno = f.mgr;
