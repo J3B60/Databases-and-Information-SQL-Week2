@@ -1,0 +1,1 @@
+SELECT ename, dname FROM emp NATURAL JOIN dept;
